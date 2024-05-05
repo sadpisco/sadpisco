@@ -12,7 +12,7 @@ Actualmente buscando trabajo como Full Stack Developer.
 
 React / Node Web Developer.
 
-I have expertise building web reponsive pages on React.Js and backends in Node.js. I also have knowledge on Agile, GIT, data structures and frameworks. I regularly design web interfaces (UX / UI) using figma, and I develop them using several component libraries like Material UI, Chakra UI, TailwindCSS and AntDesign. On BackEnd, I have build several backend servers using Express and Nest, connecting them to a relational database like PostreSQL and MySQL, using ORMS like Sequelize or TypeORM for SQL queries. 
+I have expertise building reponsive web pages on React.Js and backends in Node.js. I also have knowledge on Agile, GIT, data structures and frameworks. I regularly design web interfaces (UX / UI) using figma, and I develop them using several component libraries like Material UI, Chakra UI, TailwindCSS and AntDesign. On BackEnd, I have build several backend servers using Express and Nest, connecting them to a relational database like PostreSQL and MySQL, using ORMS like Sequelize or TypeORM for SQL queries. 
 
 My last project was EcowashWeb, a static web page for a local carwash business. Since I've been working as a full time freelancer lately. Link Deploy: https://lavadosecowash.netlify.app/
 
