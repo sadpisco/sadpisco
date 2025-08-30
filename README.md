@@ -16,7 +16,7 @@ I have expertise building reponsive web pages on React.Js and backends in Node.j
 
 My last project was EcowashWeb, a static web page for a local carwash business. Since I've been working as a full time freelancer lately. Link Deploy: https://lavadosecowash.netlify.app/
 
-My Minimal Resume: https://leoriscodev.netlify.app/
+Resume: https://resume.leorisco.dev/
 
 <!---
 sadpisco/sadpisco is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
